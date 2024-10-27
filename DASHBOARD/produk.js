@@ -13,15 +13,14 @@ const productData = [
     harga: 13000000,
     kategori: "Smartphone",
     deskripsi: "Smartphone flagship dari Samsung dengan layar AMOLED.",
-    gambar: "https://image.samsung.com/us/smartphones/galaxy-s21",
+    gambar: "Samsung Galaxy S21.jpeg",
   },
   {
     nama: "Xiaomi Mi 11",
     harga: 8000000,
     kategori: "Smartphone",
     deskripsi: "Xiaomi Mi 11 dengan Snapdragon 888 dan layar 120Hz.",
-    gambar:
-      "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/Xiaomi-Mi11",
+    gambar: "Xiomi Mi 11.jpeg",
   },
 ];
 
